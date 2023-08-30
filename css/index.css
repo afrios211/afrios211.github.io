@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+header {
+    text-align: center;
+    background-color: rgb(68, 56, 245,12);
+    box-shadow: -10px 5px 10px rgb(0, 0, 0,2);
+    border-radius: 0.5cm;
+
+}
+
+
+.borde_foto {
+    border: 2px solid black;
+    border-radius: 0.5cm;
+    height: 300px;
+}
+
+
+main {
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    background-color:rgb(133, 131, 228);
+    box-shadow: -10px 5px 10px rgb(0,0, 0,2);
+    border-radius: 0.5cm;
+}
+table {
+    margin-right: 0.5cm; ;
+    margin-left: 0.5cm;
+    text-align: none;
+}
+
+section {
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+}
+
+a:focus {
+    background-color:  rgb(68, 56, 245,12);
+    color: black;
+    font-size: 30px;
+}
+
+
+
